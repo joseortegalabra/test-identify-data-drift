@@ -32,3 +32,14 @@ gurobi.lic
 *DS_Store
 
 
+# checkpoints
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# pycache
+__pycache__
+**/__pycache__
+*__pycache__
+
+
